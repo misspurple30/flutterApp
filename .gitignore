@@ -44,3 +44,8 @@ ios/Flutter/Flutter.podspec
 
 # Coverage
 coverage/
+lib/firebase_options.dart
+firebase.json
+.firebaserc
+google-services.json
+GoogleService-Info.plist
